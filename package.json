@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-09gi",
+  "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://YuliaMiha.github.io/goit-js-hw-09",
@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
-    "modern-normalize": "^1.1.0"
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.5"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
