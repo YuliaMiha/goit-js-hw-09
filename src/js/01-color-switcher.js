@@ -17,7 +17,6 @@ refs.startBtn.addEventListener("click", () => {
     refs.startBtn.disabled = true;
     refs.stopBtn.disabled = false;
 });
-
 refs.stopBtn.addEventListener("click", () => {
     clearInterval(timeoutId);
     timeoutId = null;
